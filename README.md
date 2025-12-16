@@ -1,7 +1,7 @@
 # Welcome to GitHub!
 <h1> Hello! I'm Reham.</h1>
-I'm a Communications & Electronics Student who is passionate about Embedded systems, especially in the Automotive Industry.
-I’m currently a senior1 student at October High Institute.
+I'm a Communications & Electronics Student who is passionate about Embedded systems, especially in the Automotive Industry,
+ and I’m currently a senior1 student at October High Institute.
 
 
 
