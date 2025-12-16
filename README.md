@@ -1,5 +1,9 @@
-# Welcome to GitHub Desktop!
+# Welcome to GitHub!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I'm a Communication Electronics Student who is passionate about Embedded systems, especially in the Automotive Industry.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+🛠️ Languages and Tools:
+  💻    C ,C++, Python
+  ⚙️   Git ,GitHub
+  🔧   Visual Studio Code, Eclipse,Proteus
+
