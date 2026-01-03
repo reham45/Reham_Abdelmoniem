@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://the_url_to_your_uploaded_image.png](https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730.html)" alt="Tech Girl with Hijab" width="600" />
+  <img src="[[https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730](https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730).png](https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730.html)" alt="Tech Girl with Hijab" width="600" />
 </p>
 
 <p align="right">
