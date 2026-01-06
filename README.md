@@ -1,7 +1,7 @@
 
-<p align="right">
-  <img width="200" alt="GitHub Logo" src="https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730.png" />
-</p>
+<div style="text-align: right;">
+  <img width="200" alt="Hijab Girl Illustration" src="https://openclipart.org/download/322144/hijab-girl.svg" />
+</div>
 
 <h1> Hello! I'm Reham.</h1>
 I'm a Communications & Electronics Student who is passionate about Embedded systems, especially in the Automotive Industry,
