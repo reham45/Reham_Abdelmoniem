@@ -1,6 +1,6 @@
 
 <p align="right">
-  <img width="200" alt="GitHub Logo" src="https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730.html" />
+  <img width="200" alt="GitHub Logo" src="https://pngtree.com/freepng/cute-hijab-girl-work-from-home_6947730.png" />
 </p>
 
 <h1> Hello! I'm Reham.</h1>
