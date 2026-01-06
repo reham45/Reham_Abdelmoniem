@@ -1,6 +1,6 @@
 
 <div style="text-align: right;">
-  <img width="200" alt="Hijab Girl Illustration" src="https://openclipart.org/download/322144/hijab-girl.svg" />
+  <img width="200" alt="Work From Home" src="work-girl.png" />
 </div>
 
 <h1> Hello! I'm Reham.</h1>
